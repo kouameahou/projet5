@@ -12,6 +12,7 @@
 	<div class="container-fluid">
 		<h1> I - INITIATION AU VERSIONING (Git)</h1><hr>
 		<p>Bonjour tout le monde! Bienvenue sur ma première version</p>
+		<p></p>
 	</div>
 </body>
 </html>
